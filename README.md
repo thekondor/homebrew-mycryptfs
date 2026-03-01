@@ -1,6 +1,12 @@
 # homebrew-mycryptfs
 
-Homebrew tap for [MyCryptFS](https://github.com/thekondor/mycryptfs) - a macOS client for `gocryptfs` encrypted containers with native Finder integration.
+<p align="center">
+  <img src="https://github.com/thekondor/mycryptfs/raw/master/images/badges/signed_by_Apple.svg" alt="Signed by Apple">
+  &nbsp;
+  <img src="https://github.com/thekondor/mycryptfs/raw/master/images/badges/engineered_in_Germany.svg" alt="Engineered in Germany">
+</p>
+
+Homebrew tap for [MyCryptFS](https://github.com/thekondor/mycryptfs) - a macOS client for `gocryptfs` user-owned encrypted folders (containers) with a truly native Finder integration.
 
 ## Install
 
